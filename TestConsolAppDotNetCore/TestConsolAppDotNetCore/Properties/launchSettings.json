@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestConsolAppDotNetCore": {
+      "commandName": "Project",
+      "commandLineArgs": "21509"
+    }
+  }
+}
